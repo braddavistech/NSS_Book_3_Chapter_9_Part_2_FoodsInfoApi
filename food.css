@@ -16,4 +16,9 @@
 }
 .foodBox > h1 {
   font-weight: bold;
+  font-size: 2.5vw;
+  margin-bottom: 1.5vw;
+}
+.foodBox > p {
+  font-size: 1.3vw;
 }
