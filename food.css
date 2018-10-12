@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.foodList {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-evenly;
+}
+.foodBox {
+  border: 2px solid maroon;
+  text-align: center;
+  padding: .5vw;
+  margin: 1vw;
+}
+.foodBox > h1 {
+  font-weight: bold;
+}
